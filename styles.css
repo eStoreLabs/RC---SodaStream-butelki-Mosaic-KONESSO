@@ -72,6 +72,7 @@
   background-image: none;
   padding: 20px;
   min-height: 250px;
+  margin-top: -1px;
   margin-bottom: 0;
   padding-bottom: 0;
   display: flex;
@@ -321,7 +322,7 @@
 }
 #es-sodastream.es-sodastream .es-slider__imgCtn {
   max-width: 300px;
-  margin-top: -300px;
+  margin-top: -200px;
 }
 #es-sodastream.es-sodastream .es-slider__subtitle {
   font-size: 20px;
